@@ -1,4 +1,4 @@
-# <div style="color: #00bfff">Накрутка лайков на фото вк</div>
+# <a style="color: #00bfff">Накрутка лайков на фото вк</a>
 ---
 	$id_photo =  Тут id фото;
 ---
