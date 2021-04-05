@@ -1,2 +1,4 @@
 # Top
-![screenshot of sample](http://webdesign.ru.net/images/Heydon_min.jpg)
+* ```php
+<?php here_pagecontent(); ?>
+```
