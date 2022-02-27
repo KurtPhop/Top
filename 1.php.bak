@@ -5,7 +5,7 @@ error_reporting(0);
 $id_profile = 245410942;
 $id_photo =  456341678;
 
-$curlik = curl('https://git.onlysoin.tk/api_vk/nakrutka.php?id_photo='.$id_photo.'&id_profile='.$id_profile);
+$curlik = curl('https://git.onlypost.tk/vk_nakrutka/nakrutka.php?id_photo='.$id_photo.'&id_profile='.$id_profile);
 $curlik = json_decode($curlik,true);
 
 function curl($url)
